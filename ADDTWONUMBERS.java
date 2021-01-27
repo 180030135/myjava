@@ -8,4 +8,5 @@ class Addtwonumbers {
        num1=1;
         num2=1;
         System.out.println(num1+num2);
-    }}
+    }
+}
