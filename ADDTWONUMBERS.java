@@ -1,5 +1,5 @@
 
-class Addtwonumbers {
+class ADDTWONUMBERS {
 
     public static void main(String[] args) {
         
